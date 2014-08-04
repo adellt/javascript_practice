@@ -13,5 +13,4 @@ while(length < numbers.length) {
 	length++;
 };
 
-console.log("The answer is "+ total);
-document.write("The answer is "+ total);
+document.write("The answer is: "+ total);
